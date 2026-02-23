@@ -1,0 +1,7 @@
+{
+  "name": "Flashfix™ Turnover Marketplace",
+  "description": "The logistics layer for property turnover. Flashfix Property Services LLC.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
